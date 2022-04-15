@@ -5,6 +5,11 @@
 /.pnp
 .pnp.js
 
+#Prismic
+/.slicemachine
+/customtypes
+/sm.json
+
 # testing
 /coverage
 
